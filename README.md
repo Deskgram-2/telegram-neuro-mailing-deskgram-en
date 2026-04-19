@@ -12,6 +12,24 @@ Try the module interface in the browser: [Open web preview](https://deskgram2.co
 
 If you want to understand the dialogue flow before installation, start with the browser preview. It is the fastest way to inspect product setup, goal logic, follow-ups, and the AI block without touching local setup yet.
 
+## Interface highlights
+
+### Main workspace
+
+![Neuro Mailing Main](assets/screenshots/neuro-mailing__main__en.png)
+
+### Product goal
+
+![Product Goal](assets/screenshots/neuro-mailing__product-goal__en.png)
+
+### Follow-ups
+
+![Follow-ups](assets/screenshots/neuro-mailing__followups__en.png)
+
+### AI settings
+
+![AI Settings](assets/screenshots/neuro-mailing__ai-settings__en.png)
+
 ## About the module
 
 | Parameter | What is inside |
