@@ -1,14 +1,14 @@
-# Telegram Neuro Mailing with Deskgram 2
+﻿# Telegram Neuro Mailing with Deskgram 2
 
 Telegram Neuro Mailing is a Deskgram 2 module for AI-driven private chat outreach in Telegram. It helps you start conversations, adapt the tone to the offer, continue the dialogue with follow-ups, and move the contact toward a target action instead of stopping after one outgoing message.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=en)
 
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=en)
 
 If you want to understand the dialogue flow before installation, start with the browser preview. It is the fastest way to inspect product setup, goal logic, follow-ups, and the AI block without touching local setup yet.
 
@@ -116,4 +116,5 @@ At minimum, prepare the recipient base, the offer context, the target action, an
 
 - [Deskgram 2 website](https://deskgram2.com/)
 - [Deskgram 2 Telegram bot](https://t.me/DG2welcomebot)
-- [Open neuro mailing web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+- [Open neuro mailing web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing&lang=en)
+
